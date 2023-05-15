@@ -103,7 +103,7 @@
 <img src='https://github.com/MrNoTaiL/SQL-mini-course/blob/f7c8dcbb007d13d52a22b84f8606da996167cbfd/Pict/2.jpg'></img>
 
 <li align='justify'>Bro! Ada berapa produk ya di database kita yang punya harga kurang dari 10.000? Mau gue data nih buat flash sale.</li><br>
-<p align='justify'>Data yang digunakan dalam proses pengolahan ini adalah data product. Menggunakan data product, kolom yang dipilih adalah id dan price. Maka hasil yang akan diperoleh adalah sebagai berikut.</li>
+<p align='justify'>Data yang digunakan dalam proses pengolahan ini adalah data product. Menggunakan data product, kolom yang dipilih adalah id dan price. Maka hasil yang akan diperoleh adalah sebagai berikut.</p>
 <img src='https://github.com/MrNoTaiL/SQL-mini-course/blob/f7c8dcbb007d13d52a22b84f8606da996167cbfd/Pict/3.jpg'></img>
    
 <li align='justify'>Tolong list 5 product_id yang paling banyak dibeli dong, mau kita kasih diskon nih di campaign 11.11.</li><br>
