@@ -89,3 +89,20 @@
      <td>Timestamp when the transaction occurred</td>
   </tr>
 </table>
+
+## Exercise Data
+<p align='justify'>Pada proses pengolahan data, pertanyaan yang akan diajukan berfungsi sebagai tujuan dalam penelitian ini. Oleh karena itu, pertanyaan yang akan diajukan adalah sebagai berikut beserta proses pengolahannya.</p> 
+
+<h3 align='justify'>1. Kita akan memberikan promosi untuk customer perempuan di kota Depok melalui email. Tolong berikan data ada berapa customer yang harus kita berikan promosi per masing-masing jenis email.</h3>
+<p align='justify'>Data yang digunakan dalam proses pengolahan ini adalah data customer. Menggunakan fungsi syntax sql, kolom yang akan digunakan adalah id, city, gender, dan persyaratannya adalah kota depok dan gender yang dipilih adalah femele. Maka hasil yang akan didapat adalah seperti ini.</p>
+<pict1>
+
+<h3 align='justify'>2. Berikan saya 10 id customer dengan total pembelian overall terbesar. Saya akan memberikan diskon untuk campaign 9.9!</h3>
+<p align='justify'>Proses pengolahan data untuk menjawab pertanyaan diatas adalah dengan menggunakan data transaksi. kolom yang dipilih adalah customer_id dan jumlah dari kolom total sebagai total pembelian. Maka hasil dari pengolahan tersebut dikelompokan berdasarkan customer_id yang melakukan transaksi.</p>
+<pict2>
+
+<h3 align='justify'>3. Bro! Ada berapa produk ya di database kita yang punya harga kurang dari 10.000? Mau gue data nih buat flash sale.</h3>
+<p align='justify'>Data yang digunakan dalam proses pengolahan ini adalah data product. Menggunakan data product, kolom yang dipilih adalah id dan price. Maka hasil yang akan diperoleh adalah sebagai berikut.</p>
+<pict3>
+   
+<h3 align='justify'>4. Tolong list 5 product_id yang paling banyak dibeli dong, mau kita kasih diskon nih di campaign 11.11.</h3>
